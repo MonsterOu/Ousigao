@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+h1 {
+    font-size: 32px;
+    font-family: Sans-serif;
+    
+}
+p,span {
+    
+    font-style: italic;
+    color: red;
+}
+.style{
+	   font-weight: 500 ;
+	   font-weight: bold ;
+}
+.E-mail{
+		text-decoration:blink ;
+		color: red ;
+		text-indent:50px ;
+		text-shadow:5px 5px 10px red;
+		font-weight: 500 ;
+		font-weight: bold ;
+		line-height: 150% ;
+}
+</style>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1> 简历 </h1>
+<span>Name:</span><span class="style" >Ou</span>
+<p style="text-align:left">Experience:<strong>None</strong></p>
+<span style="text-align:left">E-mail:</span><span class = "E-mail">xxx@qq.com</span>
+
+</body>
+</html>
